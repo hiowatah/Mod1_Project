@@ -8,7 +8,7 @@ In this project, we pulled data from The Movie Database (TMDB) via API, Rotten T
 <u><b> Key Questions for This Project </b></u>
 <br>
 * What is the optimal time to release a movie?
-* A look into customer vs critic
+* A look into customer vs critic opinions on movies
 * What kind of movies do viewers want to watch?
 * Which directors are trending in the 21st century?
 
